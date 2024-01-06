@@ -19,7 +19,8 @@ public class Post {
 
     private String description;
 
-    private String contnet;
+    private String Content;
+
 
 
 }
