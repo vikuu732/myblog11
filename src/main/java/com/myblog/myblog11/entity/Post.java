@@ -19,8 +19,12 @@ public class Post {
 
     private String description;
 
+<<<<<<< HEAD
     private String Content;
 
+=======
+    private String contnet;
+>>>>>>> origin/master
 
 
 }
